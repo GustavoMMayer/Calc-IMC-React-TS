@@ -11,5 +11,5 @@ Foi utulizado React + TypesCript para fazer uma calculadora de IMC funcional.
 
 ## Deployed
 
-https://visionary-narwhal-1a1fec.netlify.app
+https://gustavocalculoimc.netlify.app/
 

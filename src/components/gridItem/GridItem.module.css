@@ -32,3 +32,8 @@
     font-size: 17px;
     margin: 10px 0 50px 0;
 }
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}

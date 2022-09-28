@@ -74,6 +74,7 @@ const App = ()=>{
           }
           </div>
         </div>
+        <footer><a href="https://www.linkedin.com/in/gustavo-mayer-6a290354/">By Gustavo Mayer</a></footer>
       </div>
     
   );
